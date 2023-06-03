@@ -13,7 +13,7 @@ const NavBar = () => {
   return (
     <nav className="nav-bar">
       <Link to="/">
-        <h2>OnlineShop</h2>
+        <h2>D.Store</h2>
       </Link>
       <Link to="/cart">
         <div className="nav-bag">
